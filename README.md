@@ -12,8 +12,6 @@ Conclusion: This study developed and validated models that integrate radiomics a
 
 ## Installation
 ```
-conda env create -n lung-ddpm python=3.9
-conda install sklearn
 pip install -r requirements.txt
 ```
 ## 📁 Data Availability
