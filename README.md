@@ -16,6 +16,8 @@ conda env create -n lung-ddpm python=3.9
 conda install sklearn
 pip install -r requirements.txt
 ```
+## 📁 Data Availability
+The data presented in this study are not publicly available at this time but may be obtained from the corresponding author, **Venkata Manem**, upon reasonable request.
 
 ## Training 
 ```
