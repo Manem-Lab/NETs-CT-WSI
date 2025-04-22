@@ -1,7 +1,7 @@
 <!-- #region -->
 # CT-and-Whole-Slide-Image-Features-Predict-Clinical-Outcomes-in-Lung-Neuroendocrine-Patients
 
-<img src="materials/fig1.png" alt="drawing" width="75%"/>
+<img src="figures/fig1.png" alt="drawing" width="75%"/>
 
 ## Abstract
 Background: Neuroendocrine tumors (NETs) are rare and heterogeneous cancers that vary in clinical presentation, biology, and treatment response. They exhibit slow growth with varying levels of aggressiveness, highlighting the need for reliable biomarkers to guide personalized treatment. This study aims to develop predictive models for overall survival (OS) and progression-free survival (PFS) using CT scans, whole slide images (WSIs) and clinical data. 
