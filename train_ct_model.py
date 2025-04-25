@@ -315,7 +315,7 @@ if __name__ == "__main__":
  help="Target survival time column")
     parser.add_argument("--vital_status_column", type=str, default="Vital status", help="Vital status column")
     parser.add_argument("--clinical_features", type=str, default="age,sex,smoking_habit,Histological subtype 1_x", help="Comma-separated clinical features to exclude from X")
-    parser.add_argument("--n_seeds", type=int, default=1, help="Number of random seeds")
+    parser.add_argument("--n_seeds", type=int, default=5, help="Number of random seeds")
     parser.add_argument("--seeds", type=str, help="Comma-separated list of seeds (optional)")
 
     args = parser.parse_args()
