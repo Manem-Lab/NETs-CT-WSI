@@ -22,7 +22,8 @@ The data presented in this study are not publicly available at this time but may
 
 ## Training 
 ```
-python nets_ct_wsi.py
+python train_wsi_model.py
+python train_ct_model.py
 ```
 
 ## Citation
