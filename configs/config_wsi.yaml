@@ -1,0 +1,7 @@
+# WSI script uses CLI, not YAML, by default.
+input_file:  collagen_clinical.csv
+target_column: "O.S. (2022)"
+vital_status_column: "Vital status"
+clinical_features: "age,sex,smoking_habit,Histological subtype 1_x"
+n_splits: 3
+seeds: [12,60,80,100,799]
