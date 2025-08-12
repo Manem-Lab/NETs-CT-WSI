@@ -1,0 +1,6 @@
+input_file: radiomics_clinical.csv
+target_column: "O.S. (2022)"
+vital_status_column: "Vital status"
+clinical_features: "age,sex,smoking_habit,Histological subtype 1_x"
+n_splits: 3
+seeds: [1,10,99,999,99999]
